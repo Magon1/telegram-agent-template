@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+httpx
+anthropic
+google-auth
+google-auth-oauthlib
+google-api-python-client
+pinecone
+voyageai
+pypdf
+python-pptx
+python-docx
+python-multipart
+telethon
+apscheduler
+pytz
