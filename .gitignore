@@ -1,0 +1,9 @@
+# 비밀 정보 보호
+.env
+team_context.txt
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
